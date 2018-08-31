@@ -3,18 +3,18 @@
     {
       "commission": {
         "insurance_fee": 36.5,
-        "provider_fee": 923.5,
-        "selectra_fee": 115.44
+        "provider_fee": 443.5,
+        "selectra_fee": 55.43
       },
       "id": 1,
-      "price": 960,
+      "price": 480,
       "user_id": 1
     },
     {
       "commission": {
         "insurance_fee": 18.25,
         "provider_fee": 251.75,
-        "selectra_fee": 31.47
+        "selectra_fee": 31.46
       },
       "id": 2,
       "price": 270,
@@ -23,11 +23,11 @@
     {
       "commission": {
         "insurance_fee": 18.25,
-        "provider_fee": 634.25,
-        "selectra_fee": 79.28
+        "provider_fee": 634.75,
+        "selectra_fee": 79.34
       },
       "id": 3,
-      "price": 652.5,
+      "price": 653,
       "user_id": 3
     }
   ]
