@@ -38,4 +38,4 @@ USERS.each do |user|
   result_index += 1
 end
 
-File.open('output.json', 'w+') { |file| file.write JSON.dump result }
+File.open('output.json', 'w+') { |file| file.write JSON.pretty_generate result }
